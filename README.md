@@ -9,6 +9,8 @@ JWT Authorization: Token-based authentication for secure access to protected end
 MySQL Database: Persistent storage for user data and properties.
 
 ## Tech Stack
-Backend: Spring Boot
-Security: Spring Security & JWT (JSON Web Tokens)
-Database: MySQL
+**Backend :** Spring Boot.
+
+**Security:** Spring Security & JWT (JSON Web Tokens).
+
+**Database:** MySQL.
